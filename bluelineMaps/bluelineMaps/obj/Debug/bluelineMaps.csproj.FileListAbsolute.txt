@@ -1,0 +1,9 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\bluelineMaps\bluelineMaps\bin\Debug\bluelineMaps.exe.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\bluelineMaps\bluelineMaps\bin\Debug\bluelineMaps.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\bluelineMaps\bluelineMaps\bin\Debug\bluelineMaps.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\bluelineMaps\bluelineMaps\obj\Debug\bluelineMaps.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\bluelineMaps\bluelineMaps\obj\Debug\bluelineMaps.frm.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\bluelineMaps\bluelineMaps\obj\Debug\bluelineMaps.Properties.Resources.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\bluelineMaps\bluelineMaps\obj\Debug\bluelineMaps.csproj.GenerateResource.Cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\bluelineMaps\bluelineMaps\obj\Debug\bluelineMaps.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\bluelineMaps\bluelineMaps\obj\Debug\bluelineMaps.pdb
